@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ahmed Yassin</h1>
-<h3 align="center">Backend ASP.NET Developer & Machine Learning Engineer</h3>
+<h3 align="center">Backend ASP.NET Developer</h3>
 
-- 🌱 I’m currently learning **Machine Learning Engineer**
+- 🌱 I’m currently learning **ASP.NET Core**
 
 - 👨‍💻 All of my projects are available at [https://yassins-portfolio-71ajtcd.gamma.site/](https://yassins-portfolio-71ajtcd.gamma.site/)
 
-- 💬 Ask me about **ASP.NET Core, Authorization, API, Machine Learning, Deep Learning, NLP And computer vision**
+- 💬 Ask me about **ASP.NET Core, Authorization, API**
 
 - 📫 How to reach me **Ahmedyassin321@gmail.com**
 
